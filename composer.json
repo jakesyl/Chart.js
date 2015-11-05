@@ -1,0 +1,26 @@
+{
+    "name": "nnnick/chartjs",
+    "type": "library",
+    "description": "Simple HTML5 charts using the canvas element.",
+    "keywords": [
+        "chart",
+        "js"
+    ],
+    "homepage": "http://www.chartjs.org/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "NICK DOWNIE",
+            "email": "hello@nickdownie.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "minimum-stability": "production",
+    "extra": {
+        "branch-alias": {
+            "release/1.1": "1.1"
+        }
+    }
+}
